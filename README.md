@@ -1,2 +1,2 @@
 # A1
-basics of git
+Java Assignment #1
